@@ -1,0 +1,2 @@
+(defpackage :chess
+  (:use :cl))
